@@ -19,7 +19,7 @@ jobs:
         run: "git config --global --add safe.directory /__w/Resume/Resume"
       - name: set git variables
         run: |
-            git config --global user.email "sophia_campana.com"
+            git config --global user.email "sophia_campana@aol.com"
             git config --global user.name "Sophia Campana"
       - name: cleanup old pdfs
         run: |
