@@ -1,4 +1,3 @@
-m
 name: PDF Compile Action
 on:
   push:
