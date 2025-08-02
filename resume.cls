@@ -123,7 +123,7 @@
 	\smallskip % Vertical whitespace
 	\MakeUppercase{\textbf{#1}} % Section title
 	\smallskip % Vertical whitespace
-	\hrule % Horizontal rule
+	\hrule height 0.25mm % Horizontal rule
 	\begin{list}{}{ % List to indent the entire content of the section
 		\setlength{\leftmargin}{0em} % Indent to the left of the list
 	}
